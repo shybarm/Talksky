@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984632355513",
+    "project_id": "talksky-4322f",
+    "storage_bucket": "talksky-4322f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984632355513:android:6fc864363854711a1c4968",
+        "android_client_info": {
+          "package_name": "com.createit.Talksky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdM0SDnTdO3OLJC-KKLZFYXCsGY3l_OI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
